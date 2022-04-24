@@ -1,5 +1,7 @@
 Hi 👋 My name is Mahan Salami
-=============================Front-End Developer | Ui/Ux designer------------------------------------* 🌍  I'm based in Tehran* ✉️  You can contact me at [mahan.salami710@gmail.com](mailto:mahan.salami710@gmail.com)
+Front-End Developer | Ui/Ux designer🌍 
+I'm based in Tehran
+✉️  You can contact me at [mahan.salami710@gmail.com](mailto:mahan.salami710@gmail.com)
 
 <a href="https://www.github.com/mahan-salami" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mahan-salami?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
